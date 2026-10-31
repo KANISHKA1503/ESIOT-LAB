@@ -1,0 +1,18 @@
+exp 8 lcd with rasp with dht22
+https://wokwi.com/projects/478972446223266817
+exp 9 smoke sensor buzzor with arduino
+https://wokwi.com/projects/478971884830242817
+exp 6 dht22
+https://wokwi.com/projects/478970824292917249
+exp 7 rasp pi dc mortor and temp sensor
+https://wokwi.com/projects/478971459132398593
+exp 5 pir led
+https://wokwi.com/projects/478970811538031617
+exp 4 led or buzzor
+https://wokwi.com/projects/478970799881007105
+exp 2 arduino with stepper mortor
+https://wokwi.com/projects/478970776070980609
+exp 3 ard with pir ldr relay module
+https://wokwi.com/projects/478970786860832769
+exp 1 arduino with pot and servo
+https://wokwi.com/projects/478970756099795969
